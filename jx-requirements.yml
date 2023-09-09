@@ -20,11 +20,11 @@ spec:
   - key: staging
   - key: production
   ingress:
-    domain: ""
+    domain: "hosting.amatak.io"
     externalDNS: false
     namespaceSubDomain: -jx.
     tls:
-      email: ""
+      email: "amatak.io@outlook.com"
       enabled: false
       production: false
   repository: bucketrepo
